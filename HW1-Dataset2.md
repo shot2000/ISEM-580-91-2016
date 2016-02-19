@@ -1,47 +1,47 @@
- Combined Cycle Power Plant Data Set
-Download: Data Folder, Data Set Description
+ #Combined Cycle Power Plant Data Set
+##Download: Data Folder, Data Set Description
 
-Abstract: The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the plant was set to work with full load.
+###Abstract: The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the plant was set to work with full load.
 	
 
-Data Set Characteristics:  
+##Data Set Characteristics:  
 	
 
-Multivariate
+###Multivariate
 	
 
-Number of Instances:
+##Number of Instances:
 	
 
-9568
+###9568
 	
 
-Area:
+##Area:
 	
 
-Computer
+###Computer
 
-Attribute Characteristics:
+##Attribute Characteristics:
 	
 
-Real
+###Real
 	
 
-Number of Attributes:
+##Number of Attributes:
 	
 
-4
+###4
 	
 
-Date Donated
+##Date Donated
 	
 
-2014-03-26
+###2014-03-26
 
-Associated Tasks:
+##Associated Tasks:
 	
 
-Regression
+###Regression
 	
 
 Missing Values?
